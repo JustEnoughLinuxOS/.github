@@ -8,6 +8,7 @@ Just Enough Linux Operating System (JELOS) was an immutable Linux distribution f
 The JELOS project has come to an end, however the sources will continue to be made available.  Binaries are no longer provided, however you will find a list of alternatives to consider instead.
 
 ### ARM based devices
+* [RockNix](https://github.com/ROCKNIX)
 * [Batocera](https://github.com/batocera-linux/batocera.linux)
 * [ArkOS](https://github.com/christianhaitian/arkos)
 * [AmberELEC](https://github.com/AmberELEC)
